@@ -1,4 +1,4 @@
 ﻿
 
 int n = Convert.ToInt32(Console.ReadLine());
-Console.WriteLine(n + 5);
+Console.WriteLine(n*n);
